@@ -11,4 +11,4 @@ pip install cryptography
 title Grimm Stealer Builder
 cls
 echo Builder Starting.
-python builder.pyw
+python gui.pyw
